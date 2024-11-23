@@ -40,8 +40,4 @@ defaults:
       type: post
     values:
       tags: Other
-sass:
-  style: compressed
 
-include:
-  - assets/css/custom.css
