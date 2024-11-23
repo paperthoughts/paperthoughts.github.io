@@ -25,7 +25,7 @@ rss: rss
 kramdown:
   syntax_highlighter_opts:
     disable: true
-    
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
@@ -40,4 +40,3 @@ defaults:
       type: post
     values:
       tags: Other
-
