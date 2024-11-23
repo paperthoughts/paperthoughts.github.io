@@ -1,7 +1,9 @@
+## A Random Post I've Found
+
 i jumped on twitter for a moment and found this lil tidbit. i hope it posts before the clock ticks over
 
-we slept together, 
-showered skin to skin,
+we slept together, <br>
+showered skin to skin, <br>
 created soul ties,
 said i love you, 
 kissed with morning breath,
